@@ -1,0 +1,25 @@
+[
+    {
+        "id": null,
+        "nombre":"Ada",
+        "Email":"Ada@gmail.com"
+    },
+
+    {
+        "id": null,
+        "nombre":"Greta",
+        "Email":"Greta@gmail.com"
+    },
+
+    {
+        "id": null,
+        "nombre":"Vim",
+        "Email":"Vim@gmail.com"
+    },
+
+    {
+        "id": null,
+        "nombre":"Tim",
+        "Email":"Tim@gmail.com"
+    }
+]
